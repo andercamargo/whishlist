@@ -1,7 +1,0 @@
-com/github/andercamargo/wishlist/app/model/Constraint.class
-com/github/andercamargo/wishlist/app/handler/ConstraintViolationExceptionHandler.class
-com/github/andercamargo/wishlist/app/controller/WishlistController.class
-com/github/andercamargo/wishlist/app/handler/MethodArgumentNotValidExceptionHandler.class
-com/github/andercamargo/wishlist/app/model/Validation.class
-com/github/andercamargo/wishlist/app/configuration/MongoConfiguration.class
-com/github/andercamargo/wishlist/app/WhishlistApplication.class
