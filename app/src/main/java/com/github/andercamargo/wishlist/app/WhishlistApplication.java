@@ -17,6 +17,6 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
 public class WhishlistApplication extends SpringBootServletInitializer {
     public static void main(String[] args) {
         SpringApplication.run(WhishlistApplication.class, args);
-        log.info("Whislist foi iniciado com sucesso!");
+        log.info("Whishlist foi iniciado com sucesso!");
     }
 }
