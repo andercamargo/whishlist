@@ -64,7 +64,7 @@ public class WishlistController {
 
 
     @DeleteMapping("remove")
-    @Operation(summary = "Find product in wishlist")
+    @Operation(summary = "Remove product in wishlist")
     public ResponseEntity delete(
             @Valid
             @Pattern(regexp = "[0-9]+" ,message="productId  deve ser um valor numerico positivo")
