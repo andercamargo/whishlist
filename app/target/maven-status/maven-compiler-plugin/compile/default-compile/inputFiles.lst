@@ -1,0 +1,7 @@
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/WhishlistApplication.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/configuration/MongoConfiguration.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/controller/WishlistController.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/handler/ConstraintViolationExceptionHandler.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/handler/MethodArgumentNotValidExceptionHandler.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/model/Constraint.java
+/Users/andersoncamargo/Projetos/Whishlist/app/src/main/java/com/github/andercamargo/wishlist/app/model/Validation.java

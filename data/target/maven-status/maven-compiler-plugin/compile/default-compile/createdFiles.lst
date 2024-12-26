@@ -1,0 +1,5 @@
+com/github/andercamargo/wishlist/data/repository/WishListRepository.class
+com/github/andercamargo/wishlist/data/model/Product.class
+com/github/andercamargo/wishlist/data/model/Customer.class
+com/github/andercamargo/wishlist/data/repository/interfaces/IWishListRepository.class
+com/github/andercamargo/wishlist/data/model/Wishlist.class
